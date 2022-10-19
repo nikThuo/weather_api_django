@@ -15,11 +15,7 @@ Find yourself here
 ---
 
 ## Description
-Weather app consuming Open Weather 
-API to enable the API user
-get the minimum, maximum, average 
-and median temperature for a 
-given city and period of time.
+### Weather app consuming Open Weather API to enable the API user get the minimum, maximum, average and median temperature for a given city and period of time.
 ---
 
 ## Technologies
@@ -32,10 +28,7 @@ given city and period of time.
 ## Features
 
 ### Query API
-Use the city's name and number of days
-to be able to find the maximum, minimum, 
-average and median temperatures of the city
-for a given number of day(s).
+#### Use the city's name and number of days to be able to find the maximum, minimum, average and median temperatures of the city for a given number of day(s).
 ---
 
 ## How To Use
